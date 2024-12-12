@@ -1,0 +1,11 @@
+<section class="experience grayBg" id="experienceId">
+  <div class="container">
+    <div class="row title-row">
+      <p class="title with-subtitle">Experience</p>
+      <p class="subtitle">Here is a quick summary of my most recent experiences:</p>
+    </div>
+    <div class="row cards-row">
+      <app-experience-card *ngFor="let experience of experiences" [experience]="experience"/>
+    </div>
+  </div>
+</section>

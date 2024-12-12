@@ -1,0 +1,27 @@
+
+h5 {
+  color: var(--light-gray-900);
+  margin: 0;
+}
+.job {
+  margin-bottom: 25px;
+}
+
+
+
+@media (max-width: 767px) {
+  .testimonials .container {
+    padding: 48px 40px !important;
+  }
+  button.carousel-control-prev {
+    left: -40px;
+    top: 50%;
+  }
+  button.carousel-control-next {
+    right: -2em;
+    top: 50%;
+  }
+
+
+
+}

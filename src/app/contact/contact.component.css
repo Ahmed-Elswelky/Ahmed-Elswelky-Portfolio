@@ -1,0 +1,44 @@
+.copy-icon:hover {
+  cursor: pointer;
+}
+.mail, .phone-num, .social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+}
+.mail-row {
+  gap: 18px;
+}
+.social-row {
+  gap: 8px;
+  margin-top: 48px;
+  align-items: center;
+}
+.social-row i {
+  font-size: 25px;
+}
+img {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+h2 {
+  margin: 0;
+}
+img:hover {
+  transform: scale(1.04);
+}
+a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+  img {
+    width: 25px;
+    height: 25px;
+  }
+  .mail, .phone-num, .social-icons {
+    gap: 2px;
+  }
+}

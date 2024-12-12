@@ -1,0 +1,31 @@
+.card {
+  max-width: 900px;
+}
+
+.card-text.small {
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 400;
+  color: var(--light-gray-500);
+}
+ul {
+  margin-top: 16px;
+}
+.card .rounded-start {
+  width: 206px;
+  object-fit: cover;
+  padding: 1.50rem;
+}
+
+@media (max-width: 767px) {
+  .card .rounded-start {
+    width: 150px;
+  }
+  .card .col-md-6 {
+    order: 2;
+  }
+  .card-body {
+    padding-top: 0px;
+  }
+}
+

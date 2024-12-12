@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Portfolio",
+    "image": "assets/images/10.jpg",
+    "githubLink": "https://github.com/Ahmed-Elswelky/Travel-Everywhere",
+    "liveLink": "https://ahmed-elswelky.github.io/Travel-Everywhere/",
+    "description": "personal website showcasing my projects, skills, and achievements. Built with Angular and TypeScript, it features a responsive design, intuitive navigation using routing, and a clean, professional interface to highlight my work and expertise.",
+    "technologies": [
+      "Angular +17",
+      "TypeScript",
+      "Responsive Design",
+      "Routing"
+    ]
+
+  },
+  {
+    "name": " Travel-Everywhere ",
+    "image": "assets/images/9.jpg",
+    "githubLink": "https://github.com/Ahmed-Elswelky/Travel-Everywhere",
+    "liveLink": "https://ahmed-elswelky.github.io/Travel-Everywhere/",
+    "description": "An interactive travel website designed to help users explore various destinations. It provides detailed information about each destination, offering a seamless user experience with responsive design and smooth routing.",
+    "technologies": [
+      "Angular",
+      "TypeScript",
+      "Responsive Design",
+      "Routing"
+    ]
+
+  },
+  {
+    "name": "Angular Note App",
+    "image": "assets/images/12.jpg",
+    "githubLink": "https://github.com/Ahmed-Elswelky/Angular-Note-App",
+    "liveLink": "https://ahmed-elswelky.github.io/Angular-Note-App/",
+    "description": "A feature-rich note-taking application where users can create, edit, and delete notes with ease. Each note is uniquely identified for efficient management. The app includes advanced features like sorting, filtering, lazy loading, responsive design, and animations for an intuitive user experience.",
+    "technologies": [
+      "Angular",
+      "TypeScript",
+      "SCSS",
+      "Lazy Loading",
+      "Animations",
+      "Responsive Design",
+      "Routing",
+      "Notifications with toasters",
+      "Crud operations",
+      "Sorting & Filtering"
+    ]
+  },
+  {
+    "name": "Eshraq Alazhar Academy",
+    "image": "assets/images/6.jpg",
+    "githubLink": "",
+    "liveLink": "https://eshraqalazhar.com/",
+    "description": "A comprehensive Islamic academy platform for teaching Quran to non-Arab students. Built with modern technologies, the platform provides a smooth learning experience with features like responsive design, context-based state management, and efficient routing.",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Context API",
+      "Responsive Design",
+      "Routing"
+    ]
+  },
+  {
+    "name": "Responsive Landing Page",
+    "image": "assets/images/2.jpg",
+    "githubLink": "https://github.com/Ahmed-Elswelky/Bootstrap-project_1",
+    "liveLink": "https://ahmed-elswelky.github.io/Bootstrap-project_1/",
+    "description": "A professionally designed responsive landing page built using the Bootstrap framework. It incorporates clean code and interactive elements, ensuring compatibility across all devices and screen sizes.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Bootstrap",
+      "Responsive Design"
+    ]
+  },
+  {
+    "name": "Responsive Landing Page",
+    "image": "assets/images/4.jpg",
+    "githubLink": "https://github.com/Ahmed-Elswelky/Landing-Page-1",
+    "liveLink": "https://ahmed-elswelky.github.io/Landing-Page-1/",
+    "description": "A sleek and minimalist responsive landing page crafted with HTML5 and CSS3. It showcases a clean layout and ensures optimal viewing across various devices.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "Responsive Design"
+    ]
+  }
+
+]

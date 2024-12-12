@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript",
+    "image": "assets/images/JSIcon.png"
+  },
+  {
+    "id": 2,
+    "name": "TypeScript",
+    "image": "assets/images/TypescriptIcon.png"
+  },
+  {
+    "id": 3,
+    "name": "HTML5",
+    "image": "assets/images/HTML5.png"
+  },
+  {
+    "id": 4,
+    "name": "CSS3",
+    "image": "assets/images/css3Icon.png"
+  },
+  {
+    "id": 5,
+    "name": "SCSS",
+    "image": "assets/images/sassIcon.png"
+  },
+  {
+    "id": 6,
+    "name": "Angular",
+    "image": "assets/images/AngularIcon.png"
+  },
+  {
+    "id": 7,
+    "name": "Bootstrap",
+    "image": "assets/images/bootstrapIcon.png"
+  },
+  {
+    "id": 8,
+    "name": "TYPO3 CMS",
+    "image": "assets/images/typo3Icon.svg"
+  },
+  {
+    "id": 9,
+    "name": "Git",
+    "image": "assets/images/GitIcon.png"
+  }
+]

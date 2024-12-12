@@ -1,0 +1,32 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="https://www.linkedin.com/in/ahmed-elswelky-75b4b6259/" target="_blank">Ahmed Elswelky</a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+      data-mdb-toggle="collapse"
+      data-mdb-target="#navbarNavAltMarkup"
+      data-bs-toggle="collapse"
+    >
+      <i class="fas fa-bars"></i>
+    </button>
+    <div
+      class="collapse navbar-collapse"
+      id="navbarNavAltMarkup"
+      mdbCollapse
+    >
+      <div class="navbar-nav">
+        <a class="nav-link active" aria-current="page" href="#aboutId" (click)="closeMenu()" >About</a>
+        <a class="nav-link" (click)="closeMenu()" href="#skillsId">Skills</a>
+        <a class="nav-link" (click)="closeMenu()" href="#experienceId">Experiences</a>
+        <a class="nav-link" (click)="closeMenu()" href="#workId">Work</a>
+        <a class="nav-link" (click)="closeMenu()" href="#testimonialsId">Testimonials</a>
+        <a class="nav-link" (click)="closeMenu()" href="#contactId">Contact</a>
+        <a class="nav-link" class="theme-toggle" (click)="toggleTheme()"><img src="assets/images/moonIcon.svg" class="d-none moon" alt="moonIcon"><img src="assets/images/sunIcon.svg" class="sun" alt="sunIcon"></a>
+        <a class="nav-link download" (click)="downloadCV()">Download CV</a>
+      </div>
+    </div>
+  </div>
+</nav>

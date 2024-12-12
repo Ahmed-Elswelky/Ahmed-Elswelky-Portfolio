@@ -1,0 +1,33 @@
+<section class="contact" id="contactId">
+  <div class="container">
+    <div class="row title-row">
+      <p class="title with-subtitle">Get in touch</p>
+      <p class="subtitle">What’s next? Feel free to reach out to me if you're looking for a developer, have a query, or simply want to connect.</p>
+    </div>
+    <div class="row text-center mail-row">
+      <div class="mail">
+        <img src="assets/images/emailIcon.svg" alt="emailIcon" class="light">
+        <img src="assets/images/mail-dark.png" alt="emailIcon" class="d-none dark">
+        <a href="mailto:ahmed.karam.elswelky@gmail.com"><h2>{{mail}}</h2></a>
+        <img src="assets/images/copyIcon.svg" alt="copyIcon" class="copy-icon light" (click)="copyMail()">
+        <img src="assets/images/copyIcon-dark.png" alt="copyIcon" class="copy-icon dark d-none" (click)="copyMail()">
+      </div>
+      <div class="phone-num">
+        <img src="assets/images/phoneIcon.svg" alt="phoneIcon" class="light">
+        <img src="assets/images/phone-dark.png" alt="phoneIcon" class="d-none dark">
+        <a href="tel:+"><h2>{{ phoneNumber }}</h2></a>
+        <img src="assets/images/copyIcon.svg" alt="copyIcon" class="copy-icon light" (click)="copyPhoneNumber()">
+        <img src="assets/images/copyIcon-dark.png" alt="copyIcon" class="copy-icon dark d-none" (click)="copyPhoneNumber()">
+      </div>
+    </div>
+    <div class="row social-row text-center ">
+        <p>You may also find me on these platforms!</p>
+        <div class="social-icons">
+          <a href="https://github.com/Ahmed-Elswelky" target="_blank" class="light"><img src="assets/images/gitHubLight.svg" alt="gitHub" class="gitHub light"></a>
+          <a href="https://github.com/Ahmed-Elswelky" target="_blank" class="dark d-none"><img src="assets/images/gitHubDark.svg" alt="gitHub" class="gitHub"></a>
+          <a href="https://www.linkedin.com/in/ahmed-elswelky-75b4b6259/" target="_blank" class="light"><i class="fa-brands fa-linkedin-in linkedIn light"></i></a>
+          <a href="https://www.linkedin.com/in/ahmed-elswelky-75b4b6259/" target="_blank" class="dark d-none"><i class="fa-brands fa-linkedin-in linkedIn dark"></i></a>
+        </div>
+    </div>
+  </div>
+</section>

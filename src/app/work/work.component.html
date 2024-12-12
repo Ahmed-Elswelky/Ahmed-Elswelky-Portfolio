@@ -1,0 +1,16 @@
+<section class="work" id="workId">
+  <div class="container">
+    <div class="row title-row">
+      <p class="title with-subtitle">Work</p>
+      <p class="subtitle">Some of the noteworthy projects I have built:</p>
+    </div>
+    <div class="row cards-row">
+      <ng-container *ngFor="let work of works; let i = index">
+        <div [ngClass]="{'reverse-row': i % 2 !== 0}">
+          <app-work-card [work]="work"></app-work-card>
+        </div>
+      </ng-container>
+    </div>
+
+  </div>
+</section>

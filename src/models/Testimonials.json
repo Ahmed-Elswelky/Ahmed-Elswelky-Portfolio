@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Mohamed Elshafei",
+      "image": "assets/images/Testimonials1.jpeg",
+      "job": "Technical Training Manager at Information Technology Institute (ITI)",
+      "praise": "Ahmed is a highly skilled and dedicated professional."
+    },
+    {
+      "name": "Sara Atef",
+      "image": "assets/images/Testimonials2.jpeg",
+      "job": "Teaching Assistant at Information Technology Institute (ITI)",
+      "praise": "Ahmed is a good student . working hard to complete his tasks . Good listener and hard working"
+    },
+    {
+      "name": "Ahmed Tawfik",
+      "image": "assets/images/Testimonials6.jpeg",
+      "job": "Software Engineer at Siemens Digital Industries Software",
+      "praise": "A highly capable professional with strong collaboration abilities and excellent self-learning skill."
+    },
+    {
+      "name": "Mohamed El-Maghraby",
+      "image": "assets/images/Testimonials5.jpeg",
+      "job": "Siemens SW Academy graduate",
+      "praise": "Ahmed is a very hardworking and talented person, both professionally and personally. He is a valuable asset to any team and a pleasure to work with."
+    },
+    {
+      "name": "Mohamed Elsheikh",
+      "image": "assets/images/Testimonials4.jpeg",
+      "job": "Frontend developer at Algoriza",
+      "praise": "I worked with Ahmed during the scholarship, He is very hardworking and gave 100 percent effort to his work And always wants to learn more and beside his great technical skills he is a humble and helpful person that you love to work with him."
+    },
+    {
+      "name": "Amr Atef",
+      "image": "assets/images/Testimonials7.jpeg",
+      "job": "Software Trainee @ Siemens EDA software academy",
+      "praise": "I had the pleasure of working with Ahmed Elswelky, and I am consistently impressed by his dedication and expertise as a front-end developer. Ahmed is a highly ambitious professional who thrives on tackling new challenges in the field of front-end development."
+    }
+
+
+
+
+]

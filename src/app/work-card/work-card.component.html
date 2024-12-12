@@ -1,0 +1,35 @@
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-5 img-col">
+        <a href="{{work.liveLink}}" target="_blank">
+        <img
+          [src]="work.image"
+          alt="workImage"
+          class="img-fluid rounded-start"
+        />
+      </a>
+      </div>
+    <div class="col-md-7">
+      <div class="card-body">
+    <a href="{{work.liveLink}}" target="_blank">
+      <p class="card-title">{{work.name}}</p>
+    </a>
+        <p class="card-text">{{work.description}}</p>
+        <div class="technologies">
+          <span *ngFor="let tech of work.technologies">{{tech}}</span>
+        </div>
+        <div class="links">
+          <a href="{{work.githubLink}}" target="_blank">
+            <p>GitHub:</p>
+            <i class="fa-brands fa-github"></i>
+          </a>
+          <a href="{{work.liveLink}}" target="_blank">
+            <p>Live Demo:</p>
+            <i class="fa-solid fa-link"></i>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      <img
+        [src]="experience.image"
+        alt="Company Image"
+        class="img-fluid rounded-start"
+      />
+    </div>
+    <div class="col-md-6">
+      <div class="card-body">
+        <p class="card-title">{{experience.title}}</p>
+        <p class="card-text small"><a href="{{experience.link}}" target="_blank">{{experience.company}} <i class="fa-solid fa-link"></i></a> - {{experience.contract}}</p>
+
+        <ul>
+          <li class="card-text" *ngFor="let work of experience.workOn">{{work}}</li>
+        </ul>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card-body">
+        <p class="card-text small">{{experience.date}}</p>
+        <p class="card-text small">{{experience.location}}</p>
+      </div>
+    </div>
+  </div>
+</div>

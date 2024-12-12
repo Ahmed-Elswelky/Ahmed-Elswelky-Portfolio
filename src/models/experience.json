@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Frontend Web Developer",
+    "company": "Ai.Parse",
+    "image": "assets/images/aidotparse.jpeg",
+    "link": "https://aidotparse.com/",
+    "contract": "Full Time",
+    "location": "Cairo, Egypt · Remote",
+    "date": "Oct 2023 - Present",
+    "workOn": [
+      "Developing and maintaining web applications using TYPO3, JavaScript, and Angular.",
+      "Implementing responsive and user-friendly interfaces.",
+      "Collaborating with cross-functional teams to deliver high-quality software solutions.",
+      "software solutions."
+    ]
+  },
+  {
+    "title": "Software Academy Trainee",
+    "company": "Siemens Software Academy",
+    "image": "assets/images/siemens.jpeg",
+    "link": "https://www.siemens.com/eg/en.html",
+    "contract": "Internship",
+    "location": "Cairo, Egypt · On-site",
+    "date": "Jul 2024 - Dec 2024",
+    "workOn": [
+      "Effective coding practices, algorithms, and problem-solving.",
+      "Data structures and their applications.",
+      "Web development techniques and tools.",
+      "Building robust and efficient software solutions."
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Medgulf Insurance Company",
+    "image": "assets/images/medgulf.jpeg",
+    "link": "https://www.medgulf.com.sa/home/",
+    "contract": "Part Time",
+    "location": "Saudi Arabia · Remote",
+    "date" : "Jul 2023 - Feb 2024",
+    "workOn": [
+      "Developing new websites with Progress 4Gl."
+    ]
+  },
+  {
+    "title": "Web Developer",
+    "company": "Information Technology Institute (ITI)",
+    "image": "assets/images/iti.jpeg",
+    "link": "https://drive.google.com/file/d/184xRqxxGczxSZlN8CqUCtZGZiNVz8uEh/view",
+    "contract": "Internship",
+    "location": "Menofia · On-site",
+    "date": "Nov 2022 - Apr 2023",
+    "workOn": [
+      "Front-end web development and Cross-Platform Mobile Applications."
+    ]
+  }
+]
