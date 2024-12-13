@@ -6,6 +6,15 @@ header {
   align-items: center;
   gap: 8px;
 }
+.social-icons {
+  gap: 15px;
+}
+.social-icons a:has(i) {
+  line-height: 10px;
+}
+.linkedIn {
+  font-size: 20px;
+}
 header .col-md-8 {
   display: flex;
   flex-direction: column;

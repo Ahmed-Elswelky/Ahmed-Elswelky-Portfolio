@@ -1,24 +1,30 @@
 [
   {
-    "name": "Portfolio",
+    "name": "Portfolio | Angular+17",
     "image": "assets/images/10.jpg",
-    "githubLink": "https://github.com/Ahmed-Elswelky/Travel-Everywhere",
-    "liveLink": "https://ahmed-elswelky.github.io/Travel-Everywhere/",
+    "githubLink": "https://github.com/Ahmed-Elswelky/Ahmed-Elswelky-Portfolio",
+    "liveLink": "https://ahmed-elswelky.github.io/Ahmed-Elswelky-Portfolio/",
     "description": "personal website showcasing my projects, skills, and achievements. Built with Angular and TypeScript, it features a responsive design, intuitive navigation using routing, and a clean, professional interface to highlight my work and expertise.",
     "technologies": [
       "Angular +17",
+      "Standalone Components",
       "TypeScript",
+      "Dark Mode",
+      "Light Mode",
+      "Toastr",
+      "Animations",
+      "Bootstrap Material Design",
       "Responsive Design",
-      "Routing"
+      "Figma"
     ]
 
   },
   {
-    "name": " Travel-Everywhere ",
+    "name": " Travel-Everywhere | Angular",
     "image": "assets/images/9.jpg",
     "githubLink": "https://github.com/Ahmed-Elswelky/Travel-Everywhere",
     "liveLink": "https://ahmed-elswelky.github.io/Travel-Everywhere/",
-    "description": "An interactive travel website designed to help users explore various destinations. It provides detailed information about each destination, offering a seamless user experience with responsive design and smooth routing.",
+    "description": "The app provides users with a seamless experience for exploring and booking flights, including advanced filtering and search options based on airline preferences, transit options, and airport details. Designed to deliver an efficient and engaging user experience with responsive design and smooth navigation.",
     "technologies": [
       "Angular",
       "TypeScript",
@@ -47,7 +53,7 @@
     ]
   },
   {
-    "name": "Eshraq Alazhar Academy",
+    "name": "Eshraq Alazhar Academy | ITI Graduation Project",
     "image": "assets/images/6.jpg",
     "githubLink": "",
     "liveLink": "https://eshraqalazhar.com/",

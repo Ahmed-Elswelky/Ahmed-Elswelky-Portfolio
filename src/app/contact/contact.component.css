@@ -32,6 +32,12 @@ img:hover {
 a:hover {
   text-decoration: underline;
 }
+.phone-num a, .mail a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
 
 @media (max-width: 767px) {
   img {
@@ -41,4 +47,16 @@ a:hover {
   .mail, .phone-num, .social-icons {
     gap: 2px;
   }
+  .phone-num a, .mail a {
+    gap: 2px;
+  }
+  .social-icons {
+    gap: 10px;
+  }
+
+  .social-icons a:has(i) {
+    line-height: 10px;
+  }
+
+
 }
